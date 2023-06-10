@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvfb-exp.a CMakeFiles/vfb-exp.dir/vfb-exp.cpp.o
+/usr/bin/ranlib libvfb-exp.a
